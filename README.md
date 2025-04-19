@@ -4,7 +4,7 @@ Submitted by: **Danh Nguyen**
 
 **GamesFunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **3** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
